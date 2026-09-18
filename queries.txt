@@ -1,0 +1,32 @@
+61 ?- consult('C:/Users/fatim/Desktop/fatima.pl').
+true.
+
+62 ?- father(ahmad, hassan).
+true.
+
+63 ?- father(ahmad, fatima).
+true.
+
+64 ?- mother(laila, fatima).
+true.
+
+65 ?- mother(jumana, mariam).
+true.
+
+66 ?- sister(jumana, fatima).
+true .
+
+67 ?- sister(haneen, hassan).
+true .
+
+68 ?- brother(hassan, fatima).
+true .
+
+69 ?- brother(hassan, jumana).
+true .
+
+70 ?- grandfather(ahmad, majed).
+true .
+
+71 ?- grandmother(laila, majed).
+true .
